@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate with other developers/projects
 - 📅 2020 Goals: Expand my mobile apps & Start studying A.I. 🤖
 - ⚡ Fun fact: I'm crazy about Star Wars
+- 💘 Important fact: I'm dating my lovely girlfriend
 
 ### Talk to me:
 
