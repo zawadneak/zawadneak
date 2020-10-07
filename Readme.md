@@ -2,7 +2,7 @@
 
 ## I'm a Student & Developer!
 
-- 🔭 I’m currently working on a [pet management app][maruska]!
+- 🔭 I’m currently studying [Fluuter](https://flutter.dev/)!
 - 🔥 I’m always on the mood for learning!
 - 👯 I’m looking to collaborate with other developers/projects
 - 📅 2020 Goals: Expand my mobile apps & Start studying A.I. 🤖
@@ -26,8 +26,8 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="VueJS" width="26px" src="https://miro.medium.com/max/400/1*wqYF-8Dmh7LhtLkKfERc3Q.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Flutter" width="26px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://siga0984.files.wordpress.com/2019/11/mongodb-logo.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
