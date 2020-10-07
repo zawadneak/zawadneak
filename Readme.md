@@ -2,7 +2,7 @@
 
 ## I'm a Student & Developer!
 
-- 🔭 I’m currently studying [Fluuter](https://flutter.dev/)!
+- 🔭 I’m currently studying [Fluter](https://flutter.dev/)!
 - 🔥 I’m always on the mood for learning!
 - 👯 I’m looking to collaborate with other developers/projects
 - 📅 2020 Goals: Expand my mobile apps & Start studying A.I. 🤖
