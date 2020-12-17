@@ -5,7 +5,7 @@
 - 🔭 I’m currently studying [NextJS](https://nextjs.org/)!
 - 🔥 I’m always on the mood for learning!
 - 👯 I’m looking to collaborate with other developers/projects
-- 📅 2020 Goals: Expand my mobile apps & Start studying A.I. 🤖
+- 📅 2021 Goals: Start working as an intern!
 - ⚡ Fun fact: I'm a huge Star Wars fan
 
 ### Talk to me:
