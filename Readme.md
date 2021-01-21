@@ -2,7 +2,7 @@
 
 ## I'm a Student & Developer!
 
-- 🔭 I’m currently studying [NextJS](https://nextjs.org/)!
+- 🔭 I’m currently looking for a development internship!
 - 🔥 I’m always on the mood for learning!
 - 👯 I’m looking to collaborate with other developers/projects
 - 📅 2021 Goals: Start working as an intern!
