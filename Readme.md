@@ -1,16 +1,20 @@
 ### Hello there! I'm Lucas / [lucaszawadneak][website] 👋
 
-## I'm a Student & Developer!
+Working at some awesome projects at [RD2 Ventures](https://rd2.ventures/)
 
-- 🔥 I’m always on the mood for learning!
+## I'm a Fullstack Developer!
+
+- 🔥 Curently learning [Go](https://go.dev/) and [Svelte](https://svelte.dev/)!
 - 👯 I’m looking to collaborate with other developers/projects
-- 📅 2022 Goals: Keep working as an intern!
+- 📅 2022 Goals: Impact people with my work as a developer
 - ⚡ Fun fact: I'm a huge Star Wars fan
 
 ### Talk to me:
 
-[<img align="left" alt="Portfolio" width="25px" src="https://cdn-icons-png.flaticon.com/512/164/164600.png" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Portfolio" width="21px" src="https://cdn-icons-png.flaticon.com/512/164/164600.png" />][website] Portfolio
+<br/>
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin] Linkedin
 <br />
 
 ### Languages and Tools:
