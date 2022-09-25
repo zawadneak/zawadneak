@@ -4,7 +4,7 @@ Working at some awesome projects at [RD2 Ventures](https://rd2.ventures/)
 
 ## I'm a Fullstack Developer!
 
-- 🔥 Curently learning [Go](https://go.dev/) and [Svelte](https://svelte.dev/)!
+- 🔥 Curently learning [Go](https://go.dev/), [Svelte](https://svelte.dev/) and [Unity](https://unity.com/)!
 - 👯 I’m looking to collaborate with other developers/projects
 - 📅 2022 Goals: Impact people with my work as a developer
 - ⚡ Fun fact: I'm a huge Star Wars fan
