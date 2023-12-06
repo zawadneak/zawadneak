@@ -30,10 +30,6 @@ Working at some awesome projects at [RD2 Ventures](https://rd2.ventures/)
 
 <br />
 <br />
-
-<a href="https://app.bounties4.com/@/lucaszawadneak" target="_blank"><img title="bounties4.com/@/lucaszawadneak" alt="bounties4.com/@/lucaszawadneak" src="https://storage.googleapis.com/profile_avatar/production/114434702220658584454/1698692657257_badge.png" width="400" height="400" /></a>
-
-<br />
 <br />
 
 [website]: https://lucaszawadneak.me/
