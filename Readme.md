@@ -18,6 +18,7 @@
 <img align="left" alt="VueJS" width="26px" src="https://miro.medium.com/max/400/1*wqYF-8Dmh7LhtLkKfERc3Q.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Django" width="24px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
+<img align="left" alt="ruby" width="24px" src="https://logos-download.com/wp-content/uploads/2016/09/Ruby_logo.png" />
 
 <br />
 <br />
