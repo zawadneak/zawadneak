@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 </div>
 
 ---
@@ -33,8 +34,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zawadneak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawadneak&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zawadneak&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zawadneak&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 <div align="center">
