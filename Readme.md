@@ -1,28 +1,42 @@
-### Hello there! I'm Lucas / [lucaszawadneak][website] 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Lucas+Zawadneak+%F0%9F%91%8B;Full-Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+</div>
 
-### Talk to me:
-
-[<img align="left" alt="Portfolio" width="21px" src="https://cdn-icons-png.flaticon.com/512/164/164600.png" />][website] Portfolio
 <br/>
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin] Linkedin
-<br />
+<div align="center">
+  <a href="https://lucaszawadneak.me/?utm_source=github">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucaszawadneak/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
-### Languages and Tools:
+---
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Typescript" width="26px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="VueJS" width="26px" src="https://miro.medium.com/max/400/1*wqYF-8Dmh7LhtLkKfERc3Q.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Django" width="24px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
-<img align="left" alt="ruby" width="24px" src="https://logos-download.com/wp-content/uploads/2016/09/Ruby_logo.png" />
+### 🛠️ Languages & Tools
 
-<br />
-<br />
-<br />
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
+</div>
 
-[website]: https://lucaszawadneak.me/
-[linkedin]: https://www.linkedin.com/in/lucaszawadneak/
-[maruska]: https://play.google.com/store/apps/details?id=com.lcdev.maruska
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zawadneak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawadneak&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zawadneak&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
