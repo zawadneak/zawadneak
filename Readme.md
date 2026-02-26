@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://lucaszawadneak.me/">
+  <a href="https://lucaszawadneak.me/?utm_source=github">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/lucaszawadneak/">
